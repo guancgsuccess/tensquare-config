@@ -11,6 +11,8 @@ spring:
   jpa:
     show-sql: false
     database: mysql
+rabbitmq:
+  192.168.2.49
 eureka:
   client:
     service-url:
